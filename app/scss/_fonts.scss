@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Montserrat-Black';
+  font-weight: 900;
+  font-style: normal;
+  src: local('Montserrat-Black'),
+    url('../fonts/Montserrat-Black.woff2') format('woff2'),
+    url('../fonts/Montserrat-Black.woff') format('woff');
+      font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Nunito-Bold'),
+    url('../fonts/Nunito-Bold.woff2') format('woff2'),
+    url('../fonts/Nunito-Bold.woff') format('woff');
+      font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito-Light';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Nunito-Light'),
+    url('../fonts/Nunito-Light.woff2') format('woff2'),
+    url('../fonts/Nunito-Light.woff') format('woff');
+      font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito-LightItalic';
+  font-weight: 300;
+  font-style: italic;
+  src: local('Nunito-LightItalic'),
+    url('../fonts/Nunito-LightItalic.woff2') format('woff2'),
+    url('../fonts/Nunito-LightItalic.woff') format('woff');
+      font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito-SemiBold';
+  font-weight: 600;
+  font-style: normal;
+  src: local('Nunito-SemiBold'),
+    url('../fonts/Nunito-SemiBold.woff2') format('woff2'),
+    url('../fonts/Nunito-SemiBold.woff') format('woff');
+      font-display: swap;
+}
+
